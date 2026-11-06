@@ -18,7 +18,7 @@ Camada de saída (Output Layer): 10 neurônios.
 
 O treinamento utiliza 64 amostras e executa 2000 iterações.
 
-Tecnologias utilizadas
+Tecnologias utilizadas:
 
 Python
 
